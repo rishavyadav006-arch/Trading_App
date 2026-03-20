@@ -33,7 +33,9 @@ This is a Stock Market Analysis and Prediction Web Application built with Stream
 # Trading_App/
 │
 ├── Trading_App.py                 # Main landing page
+
 ├── pages/                         # Multi-page app structure
+
 │   ├── Stock_Analysis.py         # Stock information & technical analysis
 │   ├── Stock_Prediction.py       # ARIMA price prediction
 │   ├── CAPM_Return.py            # Multi-stock CAPM analysis
