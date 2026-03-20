@@ -29,30 +29,19 @@ This is a Stock Market Analysis and Prediction Web Application built with Stream
 
 5. Pandas-Datareader : Fetch S&P500 data from FRED
 
+# Struture
 
-# Trading_App/
-│
-├── Trading_App.py                 # Main landing page
+1. Trading_App.py
 
-├── pages/                         # Multi-page app structure
+2. pages - Stock_Analysis.py
 
-│   ├── Stock_Analysis.py         # Stock information & technical analysis
-│   ├── Stock_Prediction.py       # ARIMA price prediction
-│   ├── CAPM_Return.py            # Multi-stock CAPM analysis
-│   └── CAPM_Beta.py              # Single stock beta calculation
-│
-├── utils/                         # Shared utility modules
-│   ├── __init__.py               # Package initializer
-│   ├── plotly_figure.py          # Chart generation functions
-│   ├── capm_functions.py         # CAPM calculations
-│   └── model_train.py            # ARIMA forecasting model
-│
-├── assets/                        # Static assets
-│   └── app.jpeg                  # Application logo/image
-│
-└── requirements.txt               # Python dependencies
+3. pages - Stock_Prediction.py
 
+4. pages - CAPM_Return.py
 
+5. pages - CAPM_Beta.py
+
+6. pages - utils -   __init__.py , plotly_figure.py , capm_functions.py , model_train.py              
 
 
 
