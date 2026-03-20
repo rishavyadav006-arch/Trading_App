@@ -1,6 +1,11 @@
 # Trading_App
 
-This is a Stock Market Analysis and Prediction Web Application built with Streamlit. It provides investors and traders with comprehensive tools to analyze stocks, predict future prices, and calculate important financial metrics like Beta and CAPM returns.
+This is a Stock Market Analysis and Prediction Web Application built with Streamlit.
+
+It provides investors and traders with comprehensive tools to analyze stocks, predict future prices
+
+And calculate important financial metrics like Beta and CAPM returns.
+
 
 # Key Features:
 
